@@ -1,0 +1,54 @@
+Java is a platform independent Language because the .class file can run on any other Operating System. 
+
+
+Operating System ---- 
+
+
+1. Writing java code   (.java) ---Source code -> Main.java ----> javac Main.java (Main.class) 
+2. Running java files (.class)----> byte code (Main.class)
+
+How to compile a java file 
+
+
+>javac Filename.java
+
+>java Filename
+
+Operators in Java :- useful to do operations between variables or objects
+1. Arithmetic Operators (+,-,*,/,%)
+
+int x =10;
+int y=20;
+
+x+y;
+
+2. Relational Operators:- It gives the relation among the variables (<,>,<=,>=,!= )
+
+int x=20;
+int y=40;
+if  a person age>21 then you are eligible for job. 
+
+
+3. Logical Operator :- It is useful to compare two different conditions ==, !=  &&, || 
+
+int x=5;
+int y=5
+
+x==y(true),x>y(false), x<y (false)  
+
+
+4. if else (conditonal Operators or Statements) 
+int x=10
+if(x<10){
+System.out.println("Hello");
+System.out.println("Hi");
+}
+so
+
+
+
+
+
+
+
+

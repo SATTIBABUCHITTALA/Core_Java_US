@@ -1,0 +1,62 @@
+1. Variable :- It holds somedata 
+
+
+int a; ----> Not recommended
+
+String MyName; ---> No ---starts with smallletter --myName;
+
+int AGeOfAPerson--->No
+
+String _2Name; -->No $
+
+int ageOfaPerson ---> Yes 
+
+String Email_Id;---> no
+
+String email_Id;--->Yes 
+
+
+
+Data Types :-
+ Primitive Data types 
+1.byte -257 to +256
+2. int ---->4 bytes 
+3. float ---> 4 bytes (3.45f)
+4. double ---> 8 bytes (3.4567896544444444)
+6. long -----> 8 bytes(3.45l)
+7. boolean ---> true or false
+8. char ----1 byte ('A
+
+Non Primitive data types ---> Object Oriented Programming 
+Byte
+Integer
+Float
+Double
+Boolean
+Long
+Char
+
+9. String -----("Amit"); --->
+
+String name ="Ashish";
+
+
+"9898493874"
+
+
+Type 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

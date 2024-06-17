@@ -1,0 +1,130 @@
+While loop 
+
+
+Some times we dont know when to stop 
+
+
+
+while paying a game ? 1 hour 2 hours 15 min 10 min I dont know when to stop 
+
+
+when user enters exit then close .......
+
+Syntax:- while(condition){
+
+
+		}
+		
+		
+I should allow user atleast once then I will check I am going to allow the user 
+if condition satisfies 
+
+Airport ---I can go to airport but I should some valid ticket to travel.
+
+
+do while loop 
+
+
+do {
+
+
+
+}while(condition);
+
+Class and Object :- 
+Object is a real time entity. 
+An Object has set of Properties and behaviors
+
+hands
+legs
+eyes
+
+
+
+behavior
+canWrite()
+canWalk();
+
+
+A pen is an object 
+
+Variables :- 
+ink 
+color 
+hieght
+price 
+
+behavior of the pen --Methods 
+canWrite()
+
+Class with properties and behaviors
+Object will utilize properties 
+
+Class Pen{
+String color ;
+int price;
+int size;
+String penCompanyName;
+
+writeEnglish(){
+}
+
+erase()
+
+
+
+
+
+
+}
+------------------------------------------------------------------------------------------------
+
+Car, College as an example of Class Laptop
+
+
+
+class Car {
+
+String carColor;
+String variant;
+String companyName;
+double price ;
+boolean isItAvailable; //yes 
+double engineCapacity;
+int noOfSeats;
+
+
+stopEngine(){
+
+}
+startEngine(){
+
+}
+acclarate(){
+}
+applyBreak(){
+}
+startAc(){
+}
+
+
+
+
+}
+
+Car hyundai =new Car();
+hyundai.c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
